@@ -63,7 +63,7 @@ endmodule
 
 ## NAND GATE:
 ## Truthtable:
-![output](nand_tt.jpeg)
+![output](nor_tt.jpeg)
 ##  RTL realization:
 ![ouput](d1.png)
 ## Timing diagram: 
@@ -71,7 +71,7 @@ endmodule
 
 ## NOR GATE:
 ## Truthtable:
-![output](nor_tt.jpeg)
+![output](nand_tt.jpeg)
 ##  RTL realization:
 ![ouput](d2.png)
 ## Timing diagram: 
